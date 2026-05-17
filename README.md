@@ -1,0 +1,1 @@
+[Cài đặt vào Violentmonkey](https://raw.githubusercontent.com/TVTIT/bypass_15m_fami_sohoa/refs/heads/main/bypass_timer.user.js)
