@@ -12,6 +12,8 @@ Mình đã test trên Violentmonkey và Tampermonkey, nếu bạn chưa cài ext
 * [Violentmonkey](https://violentmonkey.github.io/)
 * [Tampermonkey](https://www.tampermonkey.net/)
 
+**Lưu ý**: Đối với trình duyệt Google Chrome phiên bản mới nhất đã không cho phép cài đặt Violentmonkey, bạn hãy dùng Tampermonkey hoặc đổi qua trình duyệt khác
+
 ### Bước 2: Cài đặt Script
 Nhấp vào link dưới đây để tiến hành cài đặt script:
 
