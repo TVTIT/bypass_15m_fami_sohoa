@@ -4,6 +4,8 @@
 // @description  Tự động hook vào setInterval và setTimeout để ép thời gian chờ về 1ms
 // @author       TVTIT
 // @match        https://fami.hust.edu.vn/sohoa/*
+// @updateURL    https://github.com/TVTIT/bypass_15m_fami_sohoa/raw/refs/heads/main/bypass_timer.user.js
+// @downloadURL  https://github.com/TVTIT/bypass_15m_fami_sohoa/raw/refs/heads/main/bypass_timer.user.js
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
