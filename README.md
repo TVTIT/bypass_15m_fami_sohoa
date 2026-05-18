@@ -21,8 +21,8 @@ Nhấp vào link dưới đây để tiến hành cài đặt script:
 
 Extension Userscript sẽ hiển thị cửa sổ cài đặt. Nhấn **Install** (hoặc **Confirm installation**) để hoàn tất.
 
-### Bước 3:
-Truy cập [Fami Số hoá](https://fami.hust.edu.vn/sohoa), chọn làm bất kỳ bài đánh giá liên tục. Khi đó, bạn sẽ không cần chờ 15 phút nữa.
+### Bước 3: Làm bài thi
+Truy cập [Fami Số hoá](https://fami.hust.edu.vn/sohoa), chọn làm bất kỳ bài đánh giá liên tục. Lúc này, bạn sẽ không cần chờ 15 phút nữa.
 
 **Lưu ý**: Thỉnh thoảng nó vẫn sẽ hiện màn hình đợi 15 phút, bạn hãy tắt hẳn tab đó đi, vào lại trang chủ của số hoá (không nên mở lại link bài thi ngay) rồi vào lại bài đánh giá liên tục. Mình đã thử khoảng 1-2 lần là được
 
